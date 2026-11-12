@@ -1,0 +1,117 @@
+{
+  "selected_features": [
+    "utilization_rate",
+    "temp_x_util",
+    "util_lag_30m",
+    "util_lag_24h",
+    "hour_sin",
+    "hour_cos",
+    "util_lag_60m",
+    "util_roll_mean_3h",
+    "util_roll_std_3h",
+    "util_lag_120m",
+    "is_peak_commute",
+    "temp_roll_mean_3h",
+    "temperature_2m",
+    "longitude",
+    "latitude"
+  ],
+  "all_mi_rankings": [
+    {
+      "feature": "utilization_rate",
+      "mi_score": 0.6508557566489821
+    },
+    {
+      "feature": "temp_x_util",
+      "mi_score": 0.40918122566630766
+    },
+    {
+      "feature": "util_lag_30m",
+      "mi_score": 0.3896510601349159
+    },
+    {
+      "feature": "util_lag_24h",
+      "mi_score": 0.3375477985167823
+    },
+    {
+      "feature": "hour_sin",
+      "mi_score": 0.3108623748084387
+    },
+    {
+      "feature": "hour_cos",
+      "mi_score": 0.26760045362413365
+    },
+    {
+      "feature": "util_lag_60m",
+      "mi_score": 0.23455016160802478
+    },
+    {
+      "feature": "util_roll_mean_3h",
+      "mi_score": 0.21751691480314683
+    },
+    {
+      "feature": "util_roll_std_3h",
+      "mi_score": 0.1308509863925269
+    },
+    {
+      "feature": "util_lag_120m",
+      "mi_score": 0.1097286581355501
+    },
+    {
+      "feature": "is_peak_commute",
+      "mi_score": 0.10885630829741455
+    },
+    {
+      "feature": "temp_roll_mean_3h",
+      "mi_score": 0.08961340024286901
+    },
+    {
+      "feature": "temperature_2m",
+      "mi_score": 0.0848522907099829
+    },
+    {
+      "feature": "longitude",
+      "mi_score": 0.07051518240195165
+    },
+    {
+      "feature": "latitude",
+      "mi_score": 0.06963752393492362
+    },
+    {
+      "feature": "wind_speed_10m",
+      "mi_score": 0.06567974564372525
+    },
+    {
+      "feature": "total_ports",
+      "mi_score": 0.05806881954759646
+    },
+    {
+      "feature": "relative_humidity_2m",
+      "mi_score": 0.0442821187397473
+    },
+    {
+      "feature": "precip_roll_mean_3h",
+      "mi_score": 0.03937908108337451
+    },
+    {
+      "feature": "precipitation",
+      "mi_score": 0.01832801956508545
+    },
+    {
+      "feature": "rain_x_peak_hour",
+      "mi_score": 0.015242739935705796
+    },
+    {
+      "feature": "dow_sin",
+      "mi_score": 0.005248264290588889
+    },
+    {
+      "feature": "is_weekend",
+      "mi_score": 0.0015320063523671656
+    },
+    {
+      "feature": "dow_cos",
+      "mi_score": 0.0
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Raw git clone directories (downloaded by src/00_download_data.py)
+data/raw/india_stations_repo/
+data/raw/india_ev_demand_repo/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Streamlit secrets (if any)
+.streamlit/secrets.toml

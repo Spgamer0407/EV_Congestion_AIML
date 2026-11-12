@@ -1,0 +1,17 @@
+station_id,station_name,hub,latitude,longitude,total_ports,charger_type,hub_density_factor
+BLR_STN_01,BESCOM Fast Charging Hub - Indiranagar,Indiranagar,12.9784,77.6408,6,DC Fast (CCS2),1.18
+BLR_STN_02,Tata Power EZ Charge - Koramangala 5th Block,Koramangala,12.9352,77.6245,6,DC Fast (CCS2),1.2
+BLR_STN_03,Ather Grid Mega Hub - Whitefield ITPL,Whitefield,12.9698,77.7499,8,Ultra-Fast (CCS2/Type2),1.25
+BLR_STN_04,Zeon Charging Plaza - Electronic City Phase 1,Electronic City,12.8452,77.6602,8,Ultra-Fast (CCS2),1.22
+BLR_STN_05,BESCOM EV Supercharger - Hebbal Flyover ORR,Hebbal,13.0358,77.597,6,DC Fast (CCS2),1.12
+BLR_STN_06,Jio-bp pulse Station - HSR Layout Sector 1,HSR Layout,12.9121,77.6446,6,DC Fast (CCS2),1.15
+BLR_STN_07,Shell Recharge - Bellandur Outer Ring Road,Bellandur,12.9279,77.6771,8,Ultra-Fast (CCS2),1.25
+BLR_STN_08,Tata Power Hub - Marathahalli Bridge,Marathahalli,12.9569,77.7011,6,DC Fast (CCS2),1.15
+BLR_STN_09,Fortum Charge & Drive - MG Road Metro Plaza,MG Road,12.9756,77.6066,4,Fast (Type 2/CCS2),1.1
+BLR_STN_10,BESCOM Smart Station - Jayanagar 4th Block,Jayanagar,12.925,77.5938,4,Dual Fast/Slow,0.95
+BLR_STN_11,Ather Grid Station - Malleshwaram 8th Cross,Malleshwaram,13.0031,77.5643,4,Fast (Type 2),0.92
+BLR_STN_12,ChargeZone Superhub - BTM Layout 2nd Stage,BTM Layout,12.9166,77.6101,6,DC Fast (CCS2),1.1
+BLR_STN_13,Statiq EV Hub - Banashankari 3rd Stage,Banashankari,12.9255,77.5468,4,Fast (CCS2),0.88
+BLR_STN_14,Kazam EV Station - Rajajinagar Industrial Area,Rajajinagar,12.9915,77.5523,4,Dual Fast/Slow,0.9
+BLR_STN_15,Zeon Charging - Sarjapur Road Tech Corridor,Sarjapur,12.9081,77.6874,6,DC Fast (CCS2),1.16
+BLR_STN_16,EESL Yelahanka Hub - Datta Digambar HPCL,Yelahanka,13.1525,77.5681,4,Fast (Type 0/Standard),0.86
